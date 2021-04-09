@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coverlet1139Repro", "Coverlet1139Repro\Coverlet1139Repro.csproj", "{CA0F52E1-B358-4100-BB75-19129C1D24F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coverlet1139Repro.Tests", "Coverlet1139Repro.Tests\Coverlet1139Repro.Tests.csproj", "{0F9A654F-402B-4A12-B524-8A6B517E8F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0F52E1-B358-4100-BB75-19129C1D24F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0F52E1-B358-4100-BB75-19129C1D24F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0F52E1-B358-4100-BB75-19129C1D24F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0F52E1-B358-4100-BB75-19129C1D24F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9A654F-402B-4A12-B524-8A6B517E8F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9A654F-402B-4A12-B524-8A6B517E8F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9A654F-402B-4A12-B524-8A6B517E8F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9A654F-402B-4A12-B524-8A6B517E8F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF60050-3340-411C-87EC-D68C352F72A2}
+	EndGlobalSection
+EndGlobal
